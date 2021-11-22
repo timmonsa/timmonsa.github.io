@@ -82,14 +82,14 @@ header, footer {
 @font-face {
     font-family: montserrat;
     src: url(/fonts/montserrat-regular.ttf) format('truetype');
-    front-weight: normal;
+    font-weight: normal;
     font-style: normal; 
 }
 
 @font-face {
     font-family: josefinslab;
     src: url(/fonts/josefinslab-regular.ttf) format('truetype');
-    front-weight: normal;
+    font-weight: normal;
     font-style: normal; 
 }
 
