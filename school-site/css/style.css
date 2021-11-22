@@ -87,8 +87,10 @@ header, footer {
 }
 
 @font-face {
-    font-weight: normal;
-    font-style: normal;
+    font-family: josefinslab;
+    src: url(/fonts/josefinslab-regular.ttf) format('truetype');
+    front-weight: normal;
+    font-style: normal; 
 }
 
 
@@ -99,13 +101,13 @@ font-family: montserrat, Arial, sans-serif;
 }
 h1, h2 {
 font-family: josefinslab, Georgia;
-letter-spacing: 0.125rem:
+letter-spacing: 0.125rem;
 }
 
 h1 {
 font-size: 3.75rem;
-margin: 1.125rem:
-autotext-align: center;
+margin: 1.125rem;
+text-align: center;
 
 }
 h2 {
