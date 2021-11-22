@@ -87,10 +87,9 @@ header, footer {
 }
 
 @font-face {
-    front-weight: normal;
-    font-style: normal; 
+    font-weight: normal;
+    font-style: normal;
 }
-
 
 
 /* Typography Styles */
